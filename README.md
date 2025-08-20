@@ -1,1 +1,1 @@
-My Leetcode Journey as
+My Leetcode Journey as a 
