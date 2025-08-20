@@ -1,1 +1,1 @@
-My Leetcode Journey as a 
+My Leetcode Journey as a beginner
